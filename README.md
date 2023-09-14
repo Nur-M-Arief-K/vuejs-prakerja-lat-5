@@ -1,6 +1,8 @@
 # latihan-materi-5
 Repositori ini berisi solusi dari latihan materi ke-5 pelatihan Vue JS pada kartu prakerja. Latihan di dalam materi ini mencakup penggunaan Single File Component (SFC), Vuex, vuex-persisted state, dan vue router.
 
+[lihat solusi](https://nur-m-arief-k.github.io/vuejs-prakerja-lat-5/)
+
 ## Perintah
 ![perintah 1](/task/perintah-1.jpg)
 ![perintah 2](/task/perintah-2.jpg)
